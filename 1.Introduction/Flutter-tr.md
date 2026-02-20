@@ -1,5 +1,5 @@
 ## Flutter
----
+
 ### Mobil Geliştirme Yaklaşımları
 Mobil uygulama geliştirirken 3 tür mobil geliştirme yaklaşımı vardır. Bunlar : 
 -Native
