@@ -52,6 +52,16 @@ Cross Platformun anlamı çarpraz platform anlamına gelmektedir. Mobil uygulama
 | İki platforma da aynı anda girilebileceği için pazara giriş hızlanır.  |Donanım Erişimi: En yeni cihaz özelliklerine veya sensörlere erişim için bazen güncellemeleri beklemek gerekebilir.|
 | Hata düzeltmeleri veya güncellemeler tek merkezden yapılır. | Kullanıcı deneyimi açısından iki platformunda kendine has dillerine tam uyum sağlaması zor olabilir.|
 
+### En Popular Cross Platform Araçları
+
+| Araçlar  | 
+| ------------- |  
+| Flutter (Google)  |  
+|React Native  |  
+| Kotlin Multiplatform  |   
+ 
+
+
 
 
 
