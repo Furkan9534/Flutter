@@ -23,9 +23,14 @@ Kamera , GPS , Bluetooth ve sensörler gibi cihaz özelliklerine herhangi bir k�
 Mobil uygulama geliştirirken web teknolojileri ile (HTML,CSS,Javascript) ile yerel (native) uygulama özelliklerini bir araya getiren "melez" bir yöntemdir. Temelde bir web sitesi gibi kodlanan uygulamanın, "Native Wrapper" adı verilen yerel bir kabuk içine yerleştirilerek uygulama mağazalarında (App Store, Google Play) yayınlanabilmesini sağlar.
 
 ### Hibrit Yaklaşımın Temel Özellikleri
--Uygulama bir kez yazılır; aynı kod hem Android hem de iOS üzerinde çalışır.
--Geliştirme sürecinde JavaScript, HTML5 ve CSS gibi standart web dilleri kullanılır.
--Kamera, rehber veya GPS gibi donanımsal özelliklere özel eklentiler (pluginler) aracılığıyla erişebilir.
--Güncellemeler tek bir yerden yapıldığı için yönetim ve bakım süreçleri daha hızlıdır.
+-Uygulama bir kez yazılır; aynı kod hem Android hem de iOS üzerinde çalışır. \
+-Geliştirme sürecinde JavaScript, HTML5 ve CSS gibi standart web dilleri kullanılır. \
+-Kamera, rehber veya GPS gibi donanımsal özelliklere özel eklentiler (pluginler) aracılığıyla erişebilir. \
+-Güncellemeler tek bir yerden yapıldığı için yönetim ve bakım süreçleri daha hızlıdır. \
+
+
+
+
+
 
 ---
