@@ -42,6 +42,6 @@ Mobil uygulama geliştirirken web teknolojileri ile (HTML,CSS,Javascript) ile ye
 
 ### Cross Platform Yaklaşımı
 
-
+Cross Platformun anlamı çarpraz platform anlamına geliyor. 
 
 ---
