@@ -48,10 +48,10 @@ Cross Platformun anlamı çarpraz platform anlamına gelmektedir. Mobil uygulama
 
 | Avantajlar   | 	Dezavantajlar |
 | ------------- | ------------- |
-| Maliyet  | Tek kod yazıldığı için daha ekonomiktir.|
-| Geliştirme Hızı  | Pazara çıkış süresi oldukça kısadır.|
-| Performans | Native yaklaşım uygulamalarına göre daha yavaştır.|
-| Kullanıcı Deneyici |Karmaşık animasyonlarda ve geçişlerde akıcılık sorunları yaşanabilir.|
+| Maliyet, tek ekip ve tek kod tabanı ile maliyetler düşecektir. |Performans, native uygulamalara göre biraz daha yavaştır.|
+| İki platforma da aynı anda girilebileceği için pazara giriş hızlanır.  |Donanım Erişimi: En yeni cihaz özelliklerine veya sensörlere erişim için bazen güncellemeleri beklemek gerekebilir.|
+| Hata düzeltmeleri veya güncellemeler tek merkezden yapılır. | Kullanıcı deneyimi açısından iki platformunda kendine has dillerine tam uyum sağlaması zor olabilir.|
+
 
 
 
