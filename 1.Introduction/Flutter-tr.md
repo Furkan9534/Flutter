@@ -12,7 +12,7 @@ Native yaklaşım, bir mobil uygulamanın doğrudan hedeflediği işletim sistem
 
 Kamera , GPS , Bluetooth ve sensörler gibi cihaz özelliklerine herhangi bir köprü (bridge) olmadan sorunsuz ve doğrudan çalışmamıza imkan sunar. Apple ve Google sahip olduğu appstore da tasarım ve özelliklere hemen uyum sağlar. 
 
-| First Header  | Second Header |
+| Flutter Avantajlar  | Flutter Dezavantajlar |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
