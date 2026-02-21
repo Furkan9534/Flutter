@@ -76,6 +76,9 @@ Flutter'da   butonlar, listeler , hizalamalar (padding), temalar ve hatta naviga
 
 3. Gerçek Native Performans
 
-Flutter, Dart kodunu doğrudan cihazın işlemcisinin anlayacağı makine koduna (ARM) derler
+Flutter, Dart kodunu doğrudan cihazın işlemcisinin anlayacağı makine koduna (ARM) derler. 
+
+4. Gelişmiş Geliştirici Deneyimi (Hot Reload)
+Uygulamada koddaki yaptığınzı değişiklikleri anında ekranda görmenizi sağlar. Hot Reload özelliği, geliştirme sürecini native yöntemlere göre 3 kata kadar hızlandırabilir.
 
 ---
