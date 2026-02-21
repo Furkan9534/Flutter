@@ -37,7 +37,8 @@ Mobil uygulama geliştirirken web teknolojileri ile (HTML,CSS,Javascript) ile ye
 | Performans | Native yaklaşım uygulamalarına göre daha yavaştır.|
 | Kullanıcı Deneyici |Karmaşık animasyonlarda ve geçişlerde akıcılık sorunları yaşanabilir.|
 
-
+### Hybrit Yaklaşım Araçları
+ En yaygın kullanılan platformlar arasında Ionic, Cordova ve PhoneGap kullanılmaktadır. 
 ## Cross Platform Yaklaşımı
 
 
