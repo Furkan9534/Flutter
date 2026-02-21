@@ -76,6 +76,6 @@ Flutter'da   butonlar, listeler , hizalamalar (padding), temalar ve hatta naviga
 
 3. Gerçek Native Performans
 
-
+Flutter, Dart kodunu doğrudan cihazın işlemcisinin anlayacağı makine koduna (ARM) derler
 
 ---
