@@ -35,7 +35,7 @@ Mobil uygulama geliştirirken web teknolojileri ile (HTML,CSS,Javascript) ile ye
 | Maliyet  | Tek kod yazıldığı için daha ekonomiktir.|
 | Geliştirme Hızı  | Pazara çıkış süresi oldukça kısadır.|
 | Performans | Native yaklaşım uygulamalarına göre daha yavaştır.|
-
+| Kullanıcı Deneyici |Karmaşık animasyonlarda ve geçişlerde akıcılık sorunları yaşanabilir.|
 
 
 ## Cross Platform Yaklaşımı
