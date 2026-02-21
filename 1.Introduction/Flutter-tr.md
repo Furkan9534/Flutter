@@ -18,4 +18,8 @@ Kamera , GPS , Bluetooth ve sensörler gibi cihaz özelliklerine herhangi bir k�
 | İntennet bağlantısı olmadan verilmli çalışma | Her iki platform için ayrı ayrı geliştirme yapma zorunluluğu. |
 | Karmaşık hesaplamalar ve yoğun grafikli (oyun vb.) işler için idealdir.|Bir hata düzeltildiğinde iki farklı kodun da güncellenmesi gerekir. |
 
+### Hybrid Yaklaşım
+
+Mobil uygulama geliştirirken web teknolojileri ile (HTML,CSS,Javascript) ile yerel (native) uygulama özelliklerini bir araya getiren "melez" bir yöntemdir. 
+
 ---
