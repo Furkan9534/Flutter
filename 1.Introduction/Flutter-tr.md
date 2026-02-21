@@ -20,6 +20,6 @@ Kamera , GPS , Bluetooth ve sensörler gibi cihaz özelliklerine herhangi bir k�
 
 ### Hybrid Yaklaşım
 
-Mobil uygulama geliştirirken web teknolojileri ile (HTML,CSS,Javascript) ile yerel (native) uygulama özelliklerini bir araya getiren "melez" bir yöntemdir. 
+Mobil uygulama geliştirirken web teknolojileri ile (HTML,CSS,Javascript) ile yerel (native) uygulama özelliklerini bir araya getiren "melez" bir yöntemdir. Temelde bir web sitesi gibi kodlanan uygulamanın, "Native Wrapper" adı verilen yerel bir kabuk içine yerleştirilerek uygulama mağazalarında (App Store, Google Play) yayınlanabilmesini sağlar.
 
 ---
