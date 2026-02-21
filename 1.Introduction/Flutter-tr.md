@@ -28,6 +28,13 @@ Mobil uygulama geliştirirken web teknolojileri ile (HTML,CSS,Javascript) ile ye
 -Kamera, rehber veya GPS gibi donanımsal özelliklere özel eklentiler (pluginler) aracılığıyla erişebilir. \
 -Güncellemeler tek bir yerden yapıldığı için yönetim ve bakım süreçleri daha hızlıdır. \
 
+### Hybrid Yaklaşımın Avantaj ve Dezavantajları
+
+| First Header  | Hibrit Yaklaşım |
+| ------------- | ------------- |
+| Maliyet  | Tek kod yazıldığı için daha ekonomiktir.|
+| Maliyet Hızı  | Content Cell  |
+
 
 ## Cross Platform Yaklaşımı
 
