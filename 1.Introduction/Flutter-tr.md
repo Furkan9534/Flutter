@@ -65,6 +65,11 @@ Cross Platformun anlamı çarpraz platform anlamına gelmektedir. Mobil uygulama
 
 Flutter'ı benzersiz yapan temel fark cihazın kendi arayüz bileşenlerini kullanmak yerine her bir pikseli ekrana kendisinin çizmesidir. 
 
+### Flutter'ı rakiplerinden ayıran başlıca özellikler : 
+
+1. Kendi Grafik Motoru (Skia / Impeller)
+
+
 
 
 
