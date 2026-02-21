@@ -39,7 +39,8 @@ Mobil uygulama geliştirirken web teknolojileri ile (HTML,CSS,Javascript) ile ye
 
 ### Hybrit Yaklaşım Araçları
  En yaygın kullanılan platformlar arasında Ionic, Cordova ve PhoneGap kullanılmaktadır. 
-## Cross Platform Yaklaşımı
+
+### Cross Platform Yaklaşımı
 
 
 
