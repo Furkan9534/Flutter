@@ -24,6 +24,8 @@ Mobil uygulama geliştirirken web teknolojileri ile (HTML,CSS,Javascript) ile ye
 
 ### Hibrit Yaklaşımın Temel Özellikleri
 -Uygulama bir kez yazılır; aynı kod hem Android hem de iOS üzerinde çalışır.
-
+-Geliştirme sürecinde JavaScript, HTML5 ve CSS gibi standart web dilleri kullanılır.
+-Kamera, rehber veya GPS gibi donanımsal özelliklere özel eklentiler (pluginler) aracılığıyla erişebilir.
+-Güncellemeler tek bir yerden yapıldığı için yönetim ve bakım süreçleri daha hızlıdır.
 
 ---
