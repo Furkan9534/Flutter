@@ -6,7 +6,7 @@ Mobil uygulama geliştirirken 3 tür mobil geliştirme yaklaşımı vardır. Bun
 -Hybrid
 -Cross Platform
 
-# Native Yaklaşım
+# Native Yaklaşımı
 
 Native yaklaşım, bir mobil uygulamanın doğrudan hedeflediği işletim sistemine (IOS , Android) özgü diller ve araçlar kullanılarak geliştirilmesidir. Örneğin IOS için swift ve objective C , Android için ise Kotlin ve Java kullanılır. Bu yaklaşımda , kodlar doğrudan işlemcinin anlayacağı makine diline derlenecektir.Bu yüzden veri işleme, tepki süreleri en hızlı ve üst seviye de olur. 
 
@@ -18,7 +18,7 @@ Kamera , GPS , Bluetooth ve sensörler gibi cihaz özelliklerine herhangi bir k�
 | İntennet bağlantısı olmadan verilmli çalışma | Her iki platform için ayrı ayrı geliştirme yapma zorunluluğu. |
 | Karmaşık hesaplamalar ve yoğun grafikli (oyun vb.) işler için idealdir.|Bir hata düzeltildiğinde iki farklı kodun da güncellenmesi gerekir. |
 
-# Hybrid Yaklaşım
+# Hybrid Yaklaşımı
 
 Mobil uygulama geliştirirken web teknolojileri ile (HTML,CSS,Javascript) ile yerel (native) uygulama özelliklerini bir araya getiren "melez" bir yöntemdir. Temelde bir web sitesi gibi kodlanan uygulamanın, "Native Wrapper" adı verilen yerel bir kabuk içine yerleştirilerek uygulama mağazalarında (App Store, Google Play) yayınlanabilmesini sağlar.
 
@@ -29,7 +29,7 @@ Mobil uygulama geliştirirken web teknolojileri ile (HTML,CSS,Javascript) ile ye
 -Güncellemeler tek bir yerden yapıldığı için yönetim ve bakım süreçleri daha hızlıdır. \
 
 
-
+## Cross Platform Yaklaşımı
 
 
 
