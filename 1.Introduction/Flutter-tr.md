@@ -69,7 +69,7 @@ Flutter'ı benzersiz yapan temel fark cihazın kendi arayüz bileşenlerini kull
 
 1. Kendi Grafik Motoru (Skia / Impeller)
 
-
+Geleneksel çarpraz platform araçları , cihazın kendi butonlarını , metin kutularını kullanmak için bir köprü (bridge) kurar. Flutter ise Skia veya yeni nesil impeller sayesinde  tüm arayüzü doğrudan GPU üzerinden çizer.
 
 
 
