@@ -71,7 +71,8 @@ Flutter'ı benzersiz yapan temel fark cihazın kendi arayüz bileşenlerini kull
 
 Geleneksel çarpraz platform araçları , cihazın kendi butonlarını , metin kutularını kullanmak için bir köprü (bridge) kurar. Flutter ise Skia veya yeni nesil impeller sayesinde  tüm arayüzü doğrudan GPU üzerinden çizer.
 
-
+2. "Her Şey Bir Widget'tır"
+Flutter'da   butonlar, listeler , hizalamalar (padding), temalar ve hatta navigasyon bile birer widget'tır. Bu sayede geliştiricilere geliştirmeleri için sınırsız bir özelleştirme gücü verir.  
 
 
 ---
