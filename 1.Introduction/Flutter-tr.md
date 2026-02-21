@@ -74,5 +74,8 @@ Geleneksel çarpraz platform araçları , cihazın kendi butonlarını , metin k
 2. "Her Şey Bir Widget'tır"
 Flutter'da   butonlar, listeler , hizalamalar (padding), temalar ve hatta navigasyon bile birer widget'tır. Bu sayede geliştiricilere geliştirmeleri için sınırsız bir özelleştirme gücü verir.  
 
+3. Gerçek Native Performans
+
+
 
 ---
