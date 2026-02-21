@@ -33,7 +33,8 @@ Mobil uygulama geliştirirken web teknolojileri ile (HTML,CSS,Javascript) ile ye
 | First Header  | Hibrit Yaklaşım |
 | ------------- | ------------- |
 | Maliyet  | Tek kod yazıldığı için daha ekonomiktir.|
-| Maliyet Hızı  | Content Cell  |
+| Geliştirme Hızı  | Pazara çıkış süresi oldukça kısadır.|
+
 
 
 ## Cross Platform Yaklaşımı
