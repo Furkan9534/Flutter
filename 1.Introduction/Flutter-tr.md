@@ -44,4 +44,15 @@ Mobil uygulama geliştirirken web teknolojileri ile (HTML,CSS,Javascript) ile ye
 
 Cross Platformun anlamı çarpraz platform anlamına gelmektedir. Mobil uygulamada native yaklaşımda her platform için ayrı dillerde ayrı uygulamalar geliştirirken , cross platform sayesinde geliştiriciler kodun büyük kısmını ortak yazıp her iki platform için kullanabiliyorlar. 
 
+### Cross Platform Yakşalım Avantajları ve Dezavantajları
+
+| Avantajlar   | 	Dezavantajlar |
+| ------------- | ------------- |
+| Maliyet  | Tek kod yazıldığı için daha ekonomiktir.|
+| Geliştirme Hızı  | Pazara çıkış süresi oldukça kısadır.|
+| Performans | Native yaklaşım uygulamalarına göre daha yavaştır.|
+| Kullanıcı Deneyici |Karmaşık animasyonlarda ve geçişlerde akıcılık sorunları yaşanabilir.|
+
+
+
 ---
