@@ -15,7 +15,7 @@ Kamera , GPS , Bluetooth ve sensörler gibi cihaz özelliklerine herhangi bir k�
 | Flutter Avantajlar  | Flutter Dezavantajlar |
 | -------------       | ------------- |
 | Kullanıcı Deneyimi  | IOS ve Android için iki ayrı geliştirici ve ekip gerekir.  |
-| Content Cell        | Content Cell                                               |
-
+| İntennet bağlantısı olmadan verilmli çalışma         | Her iki platform için ayrı ayrı geliştirme yapma zorunluluğu. |
+| Karmaşık hesaplamalar ve yoğun grafikli (oyun vb.) işler için idealdir.  | IOS ve Android için iki ayrı geliştirici ve ekip gerekir.  |
 
 ---
