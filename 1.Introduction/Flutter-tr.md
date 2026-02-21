@@ -61,6 +61,10 @@ Cross Platformun anlamı çarpraz platform anlamına gelmektedir. Mobil uygulama
 | Kotlin Multiplatform  |   
  
 
+### Flutter'ı diğer frameworklerden ayıran ve onu benzersiz yapan temel fark nedir ? 
+
+Flutter'ı benzersiz yapan temel fark cihazın kendi arayüz bileşenlerini kullanmak yerine her bir pikseli ekrana kendisinin çizmesidir. 
+
 
 
 
