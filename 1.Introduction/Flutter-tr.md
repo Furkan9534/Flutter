@@ -30,10 +30,11 @@ Mobil uygulama geliştirirken web teknolojileri ile (HTML,CSS,Javascript) ile ye
 
 ### Hybrid Yaklaşımın Avantaj ve Dezavantajları
 
-| First Header  | Hibrit Yaklaşım |
+| Özellik  | Hibrit Yaklaşım |
 | ------------- | ------------- |
 | Maliyet  | Tek kod yazıldığı için daha ekonomiktir.|
 | Geliştirme Hızı  | Pazara çıkış süresi oldukça kısadır.|
+| Performans | Native yaklaşım uygulamalarına göre daha yavaştır.|
 
 
 
