@@ -81,4 +81,9 @@ Flutter, Dart kodunu doğrudan cihazın işlemcisinin anlayacağı makine koduna
 4. Gelişmiş Geliştirici Deneyimi (Hot Reload)
 Uygulamada koddaki yaptığınzı değişiklikleri anında ekranda görmenizi sağlar. Hot Reload özelliği, geliştirme sürecini native yöntemlere göre 3 kata kadar hızlandırabilir.
 
+5. Tek Kod
+Flutter, sadece mobil uygulama için değildir. Aynı kod tabanı ile hiçbir performans kaybı yaşamadan Web, Windows, macOS, Linux ve hatta gömülü sistemler için uygulama çıktıları alınabilir.
+
+
+
 ---
