@@ -86,6 +86,9 @@ Flutter, sadece mobil uygulama için değildir. Aynı kod tabanı ile hiçbir pe
 
 ### StatelessWidget(Durumsuz Widget) ve StatefulWidget (Durumlu Widget)
 
+Stateless widget'lar, uygulamada oluşturulduktan sonra ekran üzerinde değişmeyen, sabit ve statik bileşenlerdir. Bir kez render edildikten sonra kendi içlerinde bir durumu güncelleyemezler.
+
+
 
 
 ---
