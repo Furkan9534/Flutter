@@ -84,6 +84,8 @@ Uygulamada koddaki yaptığınzı değişiklikleri anında ekranda görmenizi sa
 5. Tek Kod
 Flutter, sadece mobil uygulama için değildir. Aynı kod tabanı ile hiçbir performans kaybı yaşamadan Web, Windows, macOS, Linux ve hatta gömülü sistemler için uygulama çıktıları alınabilir.
 
+### StatelessWidget(Durumsuz Widget) ve StatefulWidget (Durumlu Widget)
+
 
 
 ---
