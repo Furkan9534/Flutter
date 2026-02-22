@@ -88,7 +88,7 @@ Flutter, sadece mobil uygulama için değildir. Aynı kod tabanı ile hiçbir pe
 
 Stateless widget'lar, uygulamada oluşturulduktan değişmeyen, sabit ve statik bileşenlerdir. Bir kez render edildikten sonra kendi içlerinde bir durumu güncelleyemezler.
 
-
+-Kullanım Amacı : Kullanıcı tarafından değişmeyecek  sadece bilgi gösteren sabit yapılar için kullanılır. 
 
 
 ---
