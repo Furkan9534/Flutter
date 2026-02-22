@@ -99,9 +99,8 @@ Stateless widget'lar, uygulamada oluşturulduktan değişmeyen, sabit ve statik 
 | ------------- | ------------- | ------------- |
 | Durum  | Sabit, statiktir. |  Dinamik, değişkenliktir |
 | Yapı  | Değiştirilemez ( Immutable) |  Değiştirilebilir (Mutable) |
-| Metod | Native yaklaşım uygulamalarına göre daha yavaştır.|
-| Performans |Karmaşık animasyonlarda ve geçişlerde akıcılık sorunları yaşanabilir.|
-
+| Metod | 	Sadece build() metodu içerir |createState() ve setState() kullanır |
+| Performans | Daha az kaynak tüketir.|  Ekrandaki bileşenler dinamik olduğu için daha maliyetlidir.|
 
 
 ---
