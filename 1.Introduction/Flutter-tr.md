@@ -96,8 +96,8 @@ Stateless widget'lar, uygulamada oluşturulduktan değişmeyen, sabit ve statik 
 
 
 | Özellik  | StatelessWidget | StatefulWidget |
-| ------------- | ------------- |
-| Durum  | Tek kod yazıldığı için daha ekonomiktir.|
+| ------------- | ------------- | ------------- |
+| Durum  | Sabit, statik |  Sabit, statik |
 | Yapı  | Pazara çıkış süresi oldukça kısadır.|
 | Metod | Native yaklaşım uygulamalarına göre daha yavaştır.|
 | Performans |Karmaşık animasyonlarda ve geçişlerde akıcılık sorunları yaşanabilir.|
