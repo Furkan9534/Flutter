@@ -90,5 +90,9 @@ Stateless widget'lar, uygulamada oluşturulduktan değişmeyen, sabit ve statik 
 
 -Kullanım Amacı : Kullanıcı tarafından değişmeyecek  sadece bilgi gösteren sabit yapılar için kullanılır. Text, icon , resim örnek verilebilir. 
 
+ Stateful Widget'lar ise uygulama çalışırken dinamik olarak çalışan etkileşimli bileşenlerdir. Kullanıcı bir işlem yaptığında veya veri değiştirildiğinde setState() metodu sayesinde ekranın ilgili kısmını yeniden çizerler. 
+ 
+ -Kullanım Amacı : Kullanıcı tarafından girilen verilere göre, zamanla değişebilen yapılardır.
+    
 
 ---
