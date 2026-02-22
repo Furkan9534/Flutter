@@ -93,6 +93,15 @@ Stateless widget'lar, uygulamada oluşturulduktan değişmeyen, sabit ve statik 
  Stateful Widget'lar ise uygulama çalışırken dinamik olarak çalışan etkileşimli bileşenlerdir. Kullanıcı bir işlem yaptığında veya veri değiştirildiğinde setState() metodu sayesinde ekranın ilgili kısmını yeniden çizerler. 
  
  -Kullanım Amacı : Kullanıcı tarafından girilen verilere göre, zamanla değişebilen yapılardır.
-    
+
+
+| Özellik  | StatelessWidget | StatefulWidget |
+| ------------- | ------------- |
+| Maliyet  | Tek kod yazıldığı için daha ekonomiktir.|
+| Geliştirme Hızı  | Pazara çıkış süresi oldukça kısadır.|
+| Performans | Native yaklaşım uygulamalarına göre daha yavaştır.|
+| Kullanıcı Deneyici |Karmaşık animasyonlarda ve geçişlerde akıcılık sorunları yaşanabilir.|
+
+
 
 ---
